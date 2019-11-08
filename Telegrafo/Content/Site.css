@@ -1,0 +1,84 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#btnSignal.dot.pauseCode {
+    background-color: aliceblue !important;
+}
+
+#btnSignal.dot.pauseChar {
+    background-color: red !important;
+}
+
+#btnSignal.dot.pauseWord {
+    background-color: blue !important;
+}
+
+#btnSignal.dot.dash:after {
+    content: '';
+    position: absolute;
+    width: 80%;
+    height: 2px;
+    background: #000;
+    top: 50%;
+    left: 10%;
+}
+
+#btnSignal.dot:after {
+    content: '';
+    position: absolute;
+    width: 10%;
+    height: 2px;
+    background: #000;
+    top: 50%;
+    left: 40%;
+}
+
+#btnSignal {
+    margin: 30px auto;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    background: none;
+    cursor: pointer;
+    transition: all linear;
+}
+
+    #btnSignal.active {
+        background: #fff;
+    }
+
+        #btnSignal.active,
+        #btnSignal.active:before,
+        #btnSignal.active:after {
+            transition: all linear;
+        }
+
+            #btnSignal.active:after {
+                background: #FF4855;
+            }

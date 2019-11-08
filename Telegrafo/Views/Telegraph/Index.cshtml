@@ -1,0 +1,54 @@
+﻿@using MorseCode;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+
+<body>
+    <div id="info" data-url-translate="@Url.Action("Bits2Morse")"></div>
+
+    <div class="form-group" style="margin-top:5%">
+        <div class="row">
+            <div id="codes" class="col-sm-8">
+                <div class="panel-group">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading ">BITS</div>
+                        <div class="panel-body" style="word-wrap: break-word" id="resultBits">
+
+                        </div>
+                        <button type="button" id="btnSend" class="btn btn-primary" style="display:none; margin-left:15px; margin-bottom:15px">Send </button>
+                    </div>
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">MORSE</div>
+                        <div class="panel-body" id="resultMorse">
+
+                        </div>
+                    </div>
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">HUMANO</div>
+                        <div class="panel-body" id="resultHumano">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="transmision" class="col-sm-4 text-center">
+                <button type="button" id="btnStart" class="btn btn-primary">START </button>
+                <button type="button" id="btnEnd" class="btn btn-primary" style="display:none">END </button>
+                <div id="btnSignal" style="display: none" class="dot"></div>
+            </div>
+        </div>
+    </div>
+   
+    
+
+
+</body>
+
+</html>
+
+<script language="javascript" src="~/Scripts/telegraph.index.js"></script>

@@ -1,0 +1,9 @@
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.deps.json
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.dll
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\bin\Debug\netstandard2.0\MorseCode.pdb
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfoInputs.cache
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfo.cs
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.dll
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.pdb
+C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csprojAssemblyReference.cache
