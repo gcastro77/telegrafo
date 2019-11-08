@@ -5801,11 +5801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCodeTests\\MorseCodeTests.csproj",
+      "projectUniqueName": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCodeTests\\MorseCodeTests.csproj",
       "projectName": "MorseCodeTests",
-      "projectPath": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCodeTests\\MorseCodeTests.csproj",
+      "projectPath": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCodeTests\\MorseCodeTests.csproj",
       "packagesPath": "C:\\Users\\gaston.castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCodeTests\\obj\\",
+      "outputPath": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCodeTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5824,8 +5824,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCode\\MorseCode.csproj": {
-              "projectPath": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCode\\MorseCode.csproj"
+            "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCode\\MorseCode.csproj": {
+              "projectPath": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCode\\MorseCode.csproj"
             }
           }
         }

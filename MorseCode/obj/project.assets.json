@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCode\\MorseCode.csproj",
+      "projectUniqueName": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCode\\MorseCode.csproj",
       "projectName": "MorseCode",
-      "projectPath": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCode\\MorseCode.csproj",
+      "projectPath": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCode\\MorseCode.csproj",
       "packagesPath": "C:\\Users\\gaston.castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaston.castro\\source\\repos\\MorseCode\\MorseCode\\obj\\",
+      "outputPath": "D:\\Gaston-DELL\\dev\\telegrafo\\MorseCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
