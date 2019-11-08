@@ -32,6 +32,7 @@ CodeMorseView.prototype = {
     init: function () {
         this.info = $("#info").data();
     },
+
     cleanPanels: function () {
 
     },

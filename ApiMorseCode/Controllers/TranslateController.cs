@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using System.Web.Http.Results;
 
 namespace ApiMorseCode.Controllers
@@ -16,13 +17,7 @@ namespace ApiMorseCode.Controllers
             public model() { }
 
         }
-        //// POST api/values
-        //[HttpPost]
-        //[Route("api/translate/prueba")]
-        //public void eeee(model p)
-        //{
-        //    var a = 1;
-        //}
+       
         
         [HttpPost]
         [Route("api/translate/2text")]

@@ -7,3 +7,12 @@ C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0
 C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.dll
 C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.pdb
 C:\Users\gaston.castro\source\repos\MorseCode\MorseCode\obj\Debug\netstandard2.0\MorseCode.csprojAssemblyReference.cache
+D:\Gaston-DELL\dev\telegrafo\MorseCode\bin\Debug\netstandard2.0\MorseCode.deps.json
+D:\Gaston-DELL\dev\telegrafo\MorseCode\bin\Debug\netstandard2.0\MorseCode.dll
+D:\Gaston-DELL\dev\telegrafo\MorseCode\bin\Debug\netstandard2.0\MorseCode.pdb
+D:\Gaston-DELL\dev\telegrafo\MorseCode\obj\Debug\netstandard2.0\MorseCode.csprojAssemblyReference.cache
+D:\Gaston-DELL\dev\telegrafo\MorseCode\obj\Debug\netstandard2.0\MorseCode.csproj.CoreCompileInputs.cache
+D:\Gaston-DELL\dev\telegrafo\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfoInputs.cache
+D:\Gaston-DELL\dev\telegrafo\MorseCode\obj\Debug\netstandard2.0\MorseCode.AssemblyInfo.cs
+D:\Gaston-DELL\dev\telegrafo\MorseCode\obj\Debug\netstandard2.0\MorseCode.dll
+D:\Gaston-DELL\dev\telegrafo\MorseCode\obj\Debug\netstandard2.0\MorseCode.pdb
